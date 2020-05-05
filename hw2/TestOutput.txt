@@ -1,0 +1,1566 @@
+Creating instance t3.nano
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.nano
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.nano
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.nano
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.nano
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.nano
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0e818af8c4abce8aa (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@52.37.121.38
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.micro
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.nano
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.micro
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.micro
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.micro
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.micro
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0dc5f380279bbc9b9 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.186.218.88
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.small
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.micro
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.small
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.small
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.small
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.small
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-083341e566e7beaec (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.71.24.178
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.medium
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.small
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.medium
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.medium
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.medium
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.medium
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0006e3e0e63bc8ad4 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@52.24.14.54
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.medium
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0a6b017b904413f00 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.190.45.202
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-04895a5f0a5c0449a (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@18.236.153.193
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance t3.2xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.2xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	t3.2xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-05214ce641b586c93 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.216.121.93
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance m5.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	t3.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0e770790db209d582 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.209.85.186
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance m5.xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0dbde5e5c79dd1a92 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@18.237.142.197
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance m5.2xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.2xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m5.2xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0c01f2d8a06dda372 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.220.211.27
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance c5.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	m5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0e7d236dfe56971fb (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.220.97.106
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance c5.xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0d23122afd6376112 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.221.56.81
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance c5.2xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.2xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	c5.2xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-07d43abc0c0daacd1 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.149.139.18
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance r5.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	c5.2xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0c1a3e8cf77dc15df (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.212.122.6
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance r5.xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5.xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5.xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0a165cc3723c46eb3 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.200.237.15
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance r5d.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5d.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5d.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-051f3d5505f6ef3bf (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@34.219.171.246
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance r5d.xlarge
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5d.xlarge
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	r5d.xlarge
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0b6f30574239d1e16 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@52.40.172.27
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
+Creating instance i3en.large
+Instance type is not specified. Default instance type set to 'm3.xlarge'
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	r5d.xlarge
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	m3.xlarge
+
+Default VPC: vpc-4709683f.
+Your access credentials are valid.
+AMI is not specified. Default AMI set to 'ami-0fc359be23c460554'
+Region is not specified. Default region set to 'us-west-2'
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	i3en.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	i3en.large
+
+
+=== Configuration ===
+ami:	ami-0fc359be23c460554
+aws_access_key_id:	AKIAR4UELFPSEPNDEM5R
+aws_secret_access_key:	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
+count:	1
+credential:	/home/jakemdaly/Vault/credentials.yml
+default_ami:	False
+default_region:	False
+files:	['./neighbors.txt']
+key:	JakeTeam2KeyPair
+key_path:	/home/jakemdaly/.ssh/JakeTeam2KeyPair.pem
+local:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/
+name:	i3en.large
+neighbors:	/home/jakemdaly/Documents/courses/dsc-291/TeamGitRepo/Public-DSC291/hw2/neighbors.txt
+output:	True
+region:	us-west-2
+remote:	./
+script:	/home/jakemdaly/.local/lib/python3.7/site-packages/aws_jupyter/scripts/install-jupyter-tmsn.sh
+spot:	0.0
+type:	i3en.large
+
+Warning: creating a new security group 'aws-jupyter' failed
+Creating the cluster...
+We will use on-demand instances.
+Setting tags.
+Launched instances:
+i-0b819f02ddbb77dc9 (on demand)
+Done.
+	...done
+Sent local directory to instance
+Remote instance: ubuntu@54.212.107.31
+Running the file generator and measuring latencies...
+	...done
+Copying .csv files to local directory and terminating notebook
