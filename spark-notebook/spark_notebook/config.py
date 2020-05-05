@@ -6,17 +6,18 @@ import yaml
 
 default_config = {
     "credentials": {
-        "path": "./credential.yaml"
+        "path": "/home/parndt/Vault/creds.yaml"
     },
     "emr": {
         "name": "demo-cluster",
-        "worker-count": 1,
-        "region": "us-east-1",
+        "worker-count": 2,
+        "region": "us-west-2",
         "instance-type": "r4.2xlarge",
-        "spot-price": 1.0
+        "spot-price": 1.0,
+        "open-firewall": "false"
     },
     "jupyter": {
-        "password": "change-me-321"
+        "password": "ChangeMe321"
     }
 }
 
